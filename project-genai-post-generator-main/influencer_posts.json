@@ -1,0 +1,150 @@
+[
+  {
+    "influencer": "Rohan Mehta",
+    "role": "Career Coach",
+    "style_notes": "Punchy short lines, numbered lists, direct advice, occasional bold rhetorical question as hook, minimal emojis",
+    "posts": [
+      {
+        "text": "Nobody tells you this about job hunting.\n\nIt's not a skills problem. It's a visibility problem.\n\nI've reviewed 200+ resumes this year. The candidates who got hired weren't always the most qualified. They were the most visible.\n\nHere's what visible looks like:\n- Commenting on posts in your industry (not just liking)\n- Sharing your work, even the small wins\n- Reaching out before you need something\n\nStop hiding behind your resume. Start showing up.",
+        "topic": "Job Search",
+        "language": "English",
+        "length": "Medium"
+      },
+      {
+        "text": "3 words that killed my last interview:\n\n\"I don't know.\"\n\nTurns out that's fine. What's not fine is panicking after.\n\nSay it, breathe, then say: \"Let me think through that.\" Confidence isn't knowing everything. It's not falling apart when you don't.",
+        "topic": "Career",
+        "language": "English",
+        "length": "Short"
+      },
+      {
+        "text": "Naukri dhundna is a full-time job in itself, and koi isse job nahi maanta.\n\nSo agar tum abhi struggle kar rahe ho, ye sun lo:\n\n1. Apply karna kaafi nahi hai, follow-up karo\n2. Referral maango, sharam mat karo\n3. Rejection ka matlab \"tum bekaar ho\" nahi hota\n\nMain khud 47 rejections ke baad job mila tha. Underline that number next time you feel like giving up.",
+        "topic": "Job Search",
+        "language": "Hinglish",
+        "length": "Medium"
+      },
+      {
+        "text": "Interview prep in one line: STAR nahi, SO WHAT karo khud se.\n\nHar achievement ke baad khud se pucho \"so what?\" jab tak koi real impact na nikle. Agar tumhara answer sirf \"maine kiya\" hai, wo kaafi nahi hai. Impact dikhao, sirf task nahi.",
+        "topic": "Career",
+        "language": "Hinglish",
+        "length": "Short"
+      },
+      {
+        "text": "Everyone's obsessed with landing the interview. Nobody talks about surviving the wait after.\n\nThe silence between \"we'll get back to you\" and an actual response is where most candidates lose their mind.\n\nWhat helped me:\n- Set a real follow-up date, don't just \"wait and see\"\n- Keep applying elsewhere, this isn't disloyalty, it's survival\n- Separate your self-worth from a hiring manager's inbox\n\nThe wait is part of the process. Don't let it convince you the process failed.",
+        "topic": "Job Search",
+        "language": "English",
+        "length": "Long"
+      }
+    ]
+  },
+  {
+    "influencer": "Ananya Kapoor",
+    "role": "Startup Founder / Hustle Culture Voice",
+    "style_notes": "High energy, personal storytelling, ends with a challenge to the reader, uses em-dashes and short punch sentences, some emojis",
+    "posts": [
+      {
+        "text": "18 months ago I got laid off over a 2-line email.\n\nToday I run a team of 12.\n\nNot to flex — to tell you the layoff wasn't the end of the story, it was the plot twist you didn't ask for.\n\nIf you're in that email right now — the timeline resets, not ends. Keep building. 🚀",
+        "topic": "Career",
+        "language": "English",
+        "length": "Medium"
+      },
+      {
+        "text": "Red flag in a job offer nobody warns you about:\n\n\"We're like a family here.\"\n\nFamilies don't fire you for taking a sick day. Read between the lines before you sign.",
+        "topic": "Scams",
+        "language": "English",
+        "length": "Short"
+      },
+      {
+        "text": "Startup life mein sabse bada scam kya hai pata hai?\n\n\"Equity\" ke naam pe salary kam karwa lena.\n\nMain khud iska shikaar bani thi first job mein. 0.5% equity ka promise mila jo kabhi kaagaz pe nahi aaya.\n\nAgar koi \"equity\" offer kare, likhwao. Verbal promises legal nahi hote — feelings hote hain.",
+        "topic": "Scams",
+        "language": "Hinglish",
+        "length": "Medium"
+      },
+      {
+        "text": "Meri pehli company 8 mahine mein band ho gayi thi.\n\nLog bolte the \"waste ho gaye saal.\" Main kehti hoon — best MBA jo kabhi nahi kiya.\n\nFailure sikhata hai jo koi degree nahi sikha sakti. Bas seekhna aana chahiye.",
+        "topic": "Career",
+        "language": "Hinglish",
+        "length": "Short"
+      },
+      {
+        "text": "Someone DMed me asking to \"pick my brain for 30 mins\" — for free — right after asking why I don't reply to cold DMs.\n\nHere's the thing nobody says out loud: my time isn't a resource you're entitled to just because I post on LinkedIn.\n\nWant advice? Come with a specific question, not an open invoice for my Tuesday afternoon.\n\nBoundaries aren't rude. They're how you protect the work that got you here in the first place.",
+        "topic": "Career",
+        "language": "English",
+        "length": "Long"
+      }
+    ]
+  },
+  {
+    "influencer": "Devendra Rao",
+    "role": "Cybersecurity Analyst",
+    "style_notes": "Calm, factual, warns without fear-mongering, uses concrete examples, ends with a practical checklist, rarely uses emojis",
+    "posts": [
+      {
+        "text": "A \"recruiter\" messaged me last week offering a role I never applied for — with a Gmail address, not a company domain.\n\nThat's the tell. Real recruiters use verified company emails, not generic ones.\n\nBefore you reply to any unsolicited job offer, check:\n1. Does the domain match the company website?\n2. Does the job even exist on their careers page?\n3. Are they asking for money or personal documents upfront?\n\nIf any answer feels off, it probably is.",
+        "topic": "Scams",
+        "language": "English",
+        "length": "Medium"
+      },
+      {
+        "text": "Phishing emails don't look fake anymore. They look like your HR department.\n\nThe only reliable defense: never click, always type the URL yourself.",
+        "topic": "Scams",
+        "language": "English",
+        "length": "Short"
+      },
+      {
+        "text": "Job scam ka pattern almost hamesha same hota hai:\n\nUrgency + Money + Pressure.\n\n\"Turant deposit karo processing fee ke liye\" — koi legit company aisa nahi karti. Kabhi bhi.\n\nAgar koi job offer paise maange, wo job nahi hai, trap hai.",
+        "topic": "Scams",
+        "language": "Hinglish",
+        "length": "Short"
+      },
+      {
+        "text": "Do factor authentication ek chhoti si cheez lagti hai, lekin ye 90% se zyada account takeovers ko rok deta hai.\n\nAgar abhi tak enable nahi kiya, aaj hi karo. 2 minute ka kaam hai, aur ek badi headache se bacha sakta hai.",
+        "topic": "Scams",
+        "language": "Hinglish",
+        "length": "Short"
+      },
+      {
+        "text": "Most people think scams target the careless. In my experience reviewing incident reports, they target the busy.\n\nA finance manager transferred 40 lakhs because an \"urgent\" email from the \"CEO\" landed in the middle of a chaotic Monday. She wasn't careless — she was rushed, and rushed is exactly what scammers count on.\n\nBefore any urgent request involving money or credentials, build in one deliberate pause:\n- Call the person directly on a known number, don't reply to the email\n- Check the sender's actual email address, not just the display name\n- Ask a colleague to sanity-check it if you're unsure\n\nSlowing down for 60 seconds is cheaper than any \"urgent\" request will ever be.",
+        "topic": "Scams",
+        "language": "English",
+        "length": "Long"
+      }
+    ]
+  },
+  {
+    "influencer": "Priya Nair",
+    "role": "Data Scientist / GenAI Educator",
+    "style_notes": "Teacher tone, breaks concepts into simple analogies, curious and encouraging, asks the reader a reflective question at the end",
+    "posts": [
+      {
+        "text": "People ask me if AI will take their job.\n\nWrong question. The right one: will someone using AI take your job?\n\nThe tools aren't the threat. Staying stagnant while everyone else adapts — that's the threat. What's one AI tool you've actually tried this month?",
+        "topic": "Career",
+        "language": "English",
+        "length": "Medium"
+      },
+      {
+        "text": "A resume with AI-generated bullet points is easy to spot. A resume with AI-assisted, human-edited bullet points is not.\n\nThe difference is one extra step: read it out loud before you submit it.",
+        "topic": "Job Search",
+        "language": "English",
+        "length": "Short"
+      },
+      {
+        "text": "GenAI seekhna mushkil nahi hai, overwhelming lagta hai kyunki log ek saath sab kuch seekhne ki koshish karte hain.\n\nMeri advice: ek chhoti si problem chuno, jaise \"apna resume better banao using AI,\" aur sirf usi pe focus karo. Depth pehle, breadth baad mein.",
+        "topic": "Career",
+        "language": "Hinglish",
+        "length": "Medium"
+      },
+      {
+        "text": "Job search mein sabse zyada underrated skill: apne kaam ko simple bhasha mein explain karna.\n\nAgar tum apna project 2 line mein nahi samjha sakte, interviewer bhi confuse hoga. Practice karo — chhoti behen ko samjhao jaise wo samjhe.",
+        "topic": "Job Search",
+        "language": "Hinglish",
+        "length": "Short"
+      },
+      {
+        "text": "I spent three years thinking I needed to \"master\" machine learning before I could call myself qualified for a data role.\n\nWhat actually got me hired was much smaller: I could explain a confusion matrix to a non-technical hiring manager without losing them in the first sentence.\n\nTechnical depth matters, but translation matters just as much, arguably more, in interviews where the person deciding your fate isn't always the most technical person in the room.\n\nIf you're prepping for interviews right now, practice explaining your favorite project to someone outside your field. If they nod and actually get it, you're ready. If their eyes glaze over, that's your next thing to fix — not your resume, your explanation.",
+        "topic": "Career",
+        "language": "English",
+        "length": "Long"
+      }
+    ]
+  }
+]
